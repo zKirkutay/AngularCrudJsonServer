@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "gfr3",
+      "name": "Zozan",
+      "surname": "KIR",
+      "email": "a@gmail.com",
+      "phone": "12"
+    },
+    {
+      "id": "e896",
+      "name": "baran",
+      "surname": "waestrt",
+      "email": "edrtre5",
+      "phone": "35466"
+    }
+  ]
+}
